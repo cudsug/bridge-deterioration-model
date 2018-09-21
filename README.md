@@ -37,13 +37,16 @@ For example, how fast will steel column or pile extensions (Bridge Element #8409
 
 
 ## Datasets
-**Illinois Bridge Element Level Inspections Table:** This table contains Element Level Inspections back thru January of 1995 for all bridges (also referred to as structures) including bridges that have been replaced.
 
-**Illinois Construction History Table:** This table contains the Original Year of Construction plus Reconstruction Year (if applicable) for all bridges including bridges that have been replaced.
+| Data | Content|
+| -----|--------|
+|**Illinois Bridge Element Level Inspections Table**| This table contains Element Level Inspections back thru January of 1995 for all bridges (also referred to as structures) including bridges that have been replaced.|
 
-**Illinois Structure Information System (ISIS) Summary State and Local2 Table:** This table contains an inventory/inspection record for each bridge (does not include bridges that have been replaced)
+|**Illinois Construction History Table**| This table contains the Original Year of Construction plus Reconstruction Year (if applicable) for all bridges including bridges that have been replaced.|
 
-**National Bridge Inventory Data:** In addition, there are a series of queries that list the “National Bridge Inventory Datasets”. These use the ISISSummaryStateandLocal2 Table as the source data and they can easily be exported to Excel if needed:
+|**Illinois Structure Information System (ISIS) Summary State and Local2 Table**| This table contains an inventory/inspection record for each bridge (does not include bridges that have been replaced).|
+
+|**National Bridge Inventory Data**| In addition, there are a series of queries that list the “National Bridge Inventory Datasets”. These use the ISISSummaryStateandLocal2 Table as the source data and they can easily be exported to Excel if needed:
 * Bridge condition by year built
 * Bridge condition by county
 * Bridge condition by highway system
@@ -52,7 +55,7 @@ For example, how fast will steel column or pile extensions (Bridge Element #8409
 * Count of bridges by functional classification
 * Length of bridges by functional classification
 * Area of bridges by functional classification
-* Average daily traffic of bridges by functional classification
+* Average daily traffic of bridges by functional classification|
  
  
 Please refer to the Structure Information & Procedures Manual  for use in interpreting the data.  Please note that the field names in the tables provided are included in the title block of each manual page manual in the “SIMS Field Name” box.  Lastly, we are unable to provide you with Bridge Replacement Unit Costs at this time for a variety of reasons.  Mainly, due to the wide range in costs between the different Main Structure Types.
