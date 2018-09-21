@@ -31,9 +31,9 @@ For example, how fast will steel column or pile extensions (Bridge Element #8409
 * Does the solution have the ability to display the deterioration curves graphically? 
 
 * Has the solution analyzed the historical inspection element data to determine what data shall be included to produce reasonable deterioration curves? For example: 
- * The element may have been repaired or replaced over the past 20-years which could skew the results.
- * Bad inspection data could skew the results (key typing errors, small sample size, etc.). 
- * Etc.
+  * The element may have been repaired or replaced over the past 20-years which could skew the results.
+  * Bad inspection data could skew the results (key typing errors, small sample size, etc.). 
+  * Etc.
 
 
 ## Datasets
